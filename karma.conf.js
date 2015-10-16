@@ -26,7 +26,7 @@ module.exports = function(config) {
       dir : 'coverage/'
     },
 
-    reporters: ['mocha','coverage'],
+    reporters: ['mocha','coverage','coveralls'],
 
     port: 9876,
 
