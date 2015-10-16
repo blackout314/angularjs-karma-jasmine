@@ -1,4 +1,4 @@
-describe('Testing', function() {
+describe('Module encode', function() {
   var encodeFilter;
 
   beforeEach(module('app'));
